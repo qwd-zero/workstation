@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>Codyssey Bind Mount</title>
+</head>
+<body>
+  <h1>Codyssey Docker 실습 성공!</h1>
+  <p>바인드 마운트로 수정된 페이지입니다.</p>
+</body>
+</html>

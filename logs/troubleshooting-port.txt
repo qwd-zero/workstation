@@ -1,0 +1,4 @@
+a9b15e420d0e569bb9fc2ab18d1b44bde89c655124df3dfdd11351a683687d53
+docker: Error response from daemon: failed to set up container networking: driver failed programming external connectivity on endpoint codyssey-conflict (c40dd5952767706844f9674272cf6ed15bac67e8bbbaf5edafa419e1fea13d34): Bind for 127.0.0.1:8080 failed: port is already allocated
+
+Run 'docker run --help' for more information

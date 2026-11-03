@@ -1,0 +1,1 @@
+-rw-r--r-- 1 qwd-zero qwd-zero 16 Nov  2 13:51 permission-test.txt
